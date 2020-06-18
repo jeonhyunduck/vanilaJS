@@ -18,6 +18,7 @@ function deleteToDo(event) {
     });
     toDos = cleanToDos;
     saveToDos();
+
 }
 
 
